@@ -199,7 +199,7 @@
     {"site":"https://tolureis.com/Calısmalar.html"
     ,"data":" "},
     {"site":"https://tolureis.com/Projeler.html"
-    ,"data":" "},
+    ,"data":"deneme"},
     {"site":"https://tolureis.com/index-engine.php"
     ,"data":" "},
     {"site":"https://www.vatanbilgisayar.com/"
@@ -207,6 +207,24 @@
     {"site":"https://www.boyner.com.tr/erkek-mont-c-200102"
     ,"data":" "},
     {"site":"https://www.boyner.com.tr/kadin-mont-c-100103"
-    ,"data":" "}
+    ,"data":" "},
+    {"site":"https://www.showtv.com.tr/show-haber"
+    ,"data":"Show Ana Haber Bülteni, Türkiye'nin ve dünyanın nabzını tutuyor. Gündemi takip etmek için sayfamızdan canlı haber yayınına veya geçmiş kayıtlara ulaşın."},
+    {"site":"https://www.cnnturk.com/"
+    ,"data":"Haberler, son dakika haberleri, dünyadan ve Türkiye'den tüm gelişmeler, spor, ekonomi, magazin, yaşama dair her şey... En doğru ve güncel bilgilerle son ..."},
+    {"site":"https://www.ntv.com.tr/"
+    ,"data":"En son güncel haberler NTV Haber'de! Dünya ve Türkiye'den yeni haberleri, flaş haberleri ve bugünkü haberleri ntv.com.tr ile günlük takip edin!"},
+    {"site":"https://www.kanald.com.tr/"
+    ,"data":"Kanal D,Türkiye'nin Kanalı.Kanal D yayın akışı,canlı yayını,dizi ve program bölümleri,özetleri,fragmanları,özel klipleri ve daha fazlası için kanald.com.tr."},
+    {"site":"https://www.fox.com.tr/"
+    ,"data":"En güncel haberler, en sevdiğiniz diziler, en beğendiğiniz filmler FOX'ta! Hemen FOX'a gelin, ayrıcalıkların tadını çıkarın!"},
+    {"site":"https://www.atv.com.tr/"
+    ,"data":"atv televizyon yayınını online takip eden izleyicilerimiz için özel hazırladığımız canlı yayın ile tüm atv içeriklerini dilediğinizce online izleyebilirsiniz."},
+    {"site":"https://www.trtizle.com/canli/tv/trt-1"
+    ,"data":"TRT 1 canlı yayınını trtizle.com'da izleyin. TRT 1 canlı yayınına HD olarak resmi yayın kanalı trtizle.com'dan ulaşabilirsiniz."},
+    {"site":"https://www.startv.com.tr/"
+    ,"data":"Startv.com.tr'yi Star TV dizilerini ve programlarını takip etmek için ziyaret edin. Dizi ve program bölümlerini full ve hd kalitesinde izleyin."},
+    {"site":"https://www.tv8.com.tr/canli-yayin"
+    ,"data":"TV8 canlı yayını izlemek için tıklayın. TV8'i canlı yayın sayfamızdan kesintisiz HD kalite izleyebilirsiniz."}
   ]
   }
