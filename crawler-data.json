@@ -225,6 +225,18 @@
     {"site":"https://www.startv.com.tr/"
     ,"data":"Startv.com.tr'yi Star TV dizilerini ve programlarını takip etmek için ziyaret edin. Dizi ve program bölümlerini full ve hd kalitesinde izleyin."},
     {"site":"https://www.tv8.com.tr/canli-yayin"
-    ,"data":"TV8 canlı yayını izlemek için tıklayın. TV8'i canlı yayın sayfamızdan kesintisiz HD kalite izleyebilirsiniz."}
+    ,"data":"TV8 canlı yayını izlemek için tıklayın. TV8'i canlı yayın sayfamızdan kesintisiz HD kalite izleyebilirsiniz."},
+    {"site":"https://www.midjourney.com/"
+    ,"data":"Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species."},
+    {"site":"https://openai.com/blog/chatgpt"
+    ,"data":"ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response."},
+    {"site":"https://openai.com/dall-e-2"
+    ,"data":"DALL·E 2 is an AI system that can create realistic images and art from a description in natural language."},
+    {"site":"https://playgroundai.com/"
+    ,"data":"Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more."},
+    {"site":"https://www.beatoven.ai/"
+    ,"data":"Beatoven.ai uses advanced AI music generation techniques to generate unique mood-based music to suit every part of your video."},
+    {"site":"https://beta.elevenlabs.io/"
+    ,"data":"Prime Voice AI ... The most realistic Text to Speech and Voice Cloning software. ElevenLabs brings the most compelling, rich and lifelike voices to creators and ..."}
   ]
   }
